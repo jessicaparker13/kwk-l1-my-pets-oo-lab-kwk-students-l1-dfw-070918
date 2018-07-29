@@ -4,6 +4,6 @@ class Cat
    @cat = cat
  end 
  def initialize(name)
-   @name = crookshanks
+   @name = "crookshanks"
  end 
 end

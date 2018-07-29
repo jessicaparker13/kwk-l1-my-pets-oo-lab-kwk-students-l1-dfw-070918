@@ -3,4 +3,7 @@ class Cat
  def initialize(cat)
    @cat = cat
  end 
+ def initialize(name)
+   @name = name 
+ end 
 end
